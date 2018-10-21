@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "Daniel"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
